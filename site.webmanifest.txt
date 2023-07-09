@@ -1,4 +1,4 @@
-   {
+ {
     "name": "Findduzz",
     "short_name": "Findduzz",
     "icons": [
@@ -15,7 +15,6 @@
             "purpose": "any maskable"
         }
     ],
-    "description: "Install Now Findduzz Web Apps - Let's more easy your life",
     "theme_color": "#054000",
     "background_color": "#054000",
     "display": "standalone",
