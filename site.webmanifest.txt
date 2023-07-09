@@ -1,7 +1,6 @@
    {
-    "name": "Findduzz | Make your life easier",
+    "name": "Findduzz",
     "short_name": "Findduzz",
-    "description: "Install Now Findduzz Web Apps - Let's more easy your life",
     "icons": [
         {
             "src": "hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHMVTpBuQ6fbAnMNW_NNUgyySitaGHkP1_5twhid5xCs1NnTZTLvF_2GaMJDFgHONE4FRAUv2VuJSRH1SeKvSvzFtcePJF_h29KhwIle0SvV0ymR9C_oSXmhTqs2b8ef2bOIW5nycW3W10nPNbxzp2pqwcq99PuauS0Yd82XPFhXXoj0iEp6TIip-GBWle/s192/android-chrome-192x192.png",
@@ -16,7 +15,8 @@
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#00d924",
+    "description: "Install Now Findduzz Web Apps - Let's more easy your life",
+    "theme_color": "#054000",
     "background_color": "#054000",
     "display": "standalone",
     "prefer_related_applications": false,
