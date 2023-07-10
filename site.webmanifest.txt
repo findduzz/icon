@@ -15,8 +15,8 @@
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#054000",
-    "background_color": "#054000",
+    "theme_color": "#011f00",
+    "background_color": "#011f00",
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.findduzz.com"
