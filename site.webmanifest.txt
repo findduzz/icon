@@ -1,21 +1,21 @@
- {
+   {
     "name": "Findduzz",
-    "short_name": "Findduzz",
+    "short_name": "Make your work easier",
     "icons": [
         {
-            "src": "hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHMVTpBuQ6fbAnMNW_NNUgyySitaGHkP1_5twhid5xCs1NnTZTLvF_2GaMJDFgHONE4FRAUv2VuJSRH1SeKvSvzFtcePJF_h29KhwIle0SvV0ymR9C_oSXmhTqs2b8ef2bOIW5nycW3W10nPNbxzp2pqwcq99PuauS0Yd82XPFhXXoj0iEp6TIip-GBWle/s192/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_kYGTQ5AMDu_i2PilsRh-gI1ReorHI_RhDik7xkakB_uzQDI-d8rY387iHQ2K0z1bxJBjyfgXfVDJYssdDidznI-RHG7WN0u5LvfY4cXHRy2EkjIrImfFog1a2gVYg_y7kli_E4OtZiSXneKlBXTTe7UqCc0zKsB_o4uEpGRM-2Y3AotnEGSPzXxM8Pw/s1600/android-chrome-192x192%5B1%5D.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSqHAJAqVu5MHS-lkP2KmLF59quc71kpRrY9z9jw7SQAX6RROqR2nXHxzn1fhNl3o6IWTE9HUERpkCWyJQAIt4_2ypeF0yM3Wa2fG9XNeK4n6zCUMpwhWhrokC5IOk5-3-h3WHWMYoarURySkufrrC_jvUSAl7R8GXDVK-tdZxZpperqstiuMvVuHCR7E/s512/android-chrome-512x512.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkcauWKDikxzetCOnxncVRE71Ibb5GocIuCWhaD24A_GjwgDCi99p_YZEBqwIHZR5h1r3cVsZGF2XRbEgBR4zIUJk3B7BZAbx85T7Medp_hwb97n0zLcdWV2FwCkuhjNNX54zEzegIMarle6xAT2kf48pf430hImFzIR90SHoqp1aYRbjM1CxAdgwURw/s1600/android-chrome-512x512%5B1%5D.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#011f00",
+     "theme_color": "#011f00",
     "background_color": "#011f00",
     "display": "standalone",
     "prefer_related_applications": false,
